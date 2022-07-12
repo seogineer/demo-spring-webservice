@@ -1,4 +1,4 @@
-package com.seogineer.demospringwebservice;
+package com.seogineer.webservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
