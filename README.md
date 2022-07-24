@@ -1,1 +1,1 @@
-# demo-spring-webservice
+# demo-spring-webservice [![Java CI with Gradle](https://github.com/seogineer/demo-spring-webservice/actions/workflows/gradle.yml/badge.svg)](https://github.com/seogineer/demo-spring-webservice/actions/workflows/gradle.yml)
