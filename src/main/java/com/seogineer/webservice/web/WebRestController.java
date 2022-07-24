@@ -1,6 +1,5 @@
 package com.seogineer.webservice.web;
 
-import com.seogineer.webservice.domain.posts.PostsRepository;
 import com.seogineer.webservice.dto.PostsSaveRequestDto;
 import com.seogineer.webservice.service.PostsService;
 import lombok.AllArgsConstructor;
